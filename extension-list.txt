@@ -1,0 +1,19 @@
+Auto Close Tag
+Auto Rename Tag
+C/C++
+C#
+Color Highlight
+Debugger for Chrome
+Debugger for Unity
+Docker 
+ESLint
+IntelliSense for CSS class names
+Path IntelliSense
+PHP IntelliSense
+Project Manager
+Python
+Sass
+SCSS IntelliSense
+Twilight Theme
+Vim
+vscode-icons
