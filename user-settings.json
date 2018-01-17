@@ -1,0 +1,29 @@
+{   
+    "editor.tabSize": 2,
+    "files.autoSave": "afterDelay",
+    "git.ignoreLimitWarning": true,
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j", "k"],
+            "after": ["<Esc>"]
+        },
+        {
+            "before": ["k", "j"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "vim.useCtrlKeys": false,
+    "editor.fontFamily": "Monaco, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    // "editor.lineHeight": 16,
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Twilight",
+    "workbench.iconTheme": "vscode-icons",
+    // ubuntu colors
+    /*
+    "workbench.colorCustomizations": {
+        "editor.background": "#1a1a1a",
+        "editorGutter.background": "#161616"
+    }
+    */
+}
