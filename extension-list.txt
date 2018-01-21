@@ -1,5 +1,6 @@
 Auto Close Tag
 Auto Rename Tag
+Bracket Pair Colorizer
 C/C++
 C#
 Color Highlight
@@ -7,6 +8,7 @@ Debugger for Chrome
 Debugger for Unity
 Docker 
 ESLint
+Live Server
 IntelliSense for CSS class names
 Path IntelliSense
 PHP IntelliSense
@@ -14,6 +16,9 @@ Project Manager
 Python
 Sass
 SCSS IntelliSense
+TSLint
 Twilight Theme
+Unity Code Snippets
+Unity Tools
 Vim
 vscode-icons
