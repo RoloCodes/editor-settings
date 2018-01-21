@@ -26,4 +26,9 @@
         "editorGutter.background": "#161616"
     }
     */
+    // mac colors
+    /*
+        "editor.background": "#282828",
+        "editorGutter.background": "#202020"
+    */
 }
