@@ -1,0 +1,37 @@
+[
+  { "keys": ["k", "j"], "command": "exit_insert_mode", "context": 
+    [
+      { "key": "setting.command_mode", "operand": false },
+      { "key": "setting.is.widget", "operand": false}
+   ]
+  },
+  { "keys": ["j", "k"], "command": "exit_insert_mode", "context": 
+    [
+      { "key": "setting.command_mode", "operand": false },
+      { "key": "setting.is.widget", "operand": false}
+    ]
+  },
+   { "keys": ["j", "j"], "command": "exit_insert_mode", "context": 
+    [
+      { "key": "setting.command_mode", "operand": false },
+      { "key": "setting.is.widget", "operand": false}
+    ]
+  },
+  { "keys": ["j+k"], "command": "exit_insert_mode", "context": 
+    [
+      { "key": "setting.command_mode", "operand": false },
+      { "key": "setting.is.widget", "operand": false}
+    ]
+  },
+  {
+    "keys": ["shift+enter"] ,"command": "expand_abbreviation_by_tab",
+    "context": [
+      {
+        "operand": false, 
+        "operator": "equal", 
+        "match_all": true, 
+        "key": "selector"
+      }
+    ]
+  },
+]
