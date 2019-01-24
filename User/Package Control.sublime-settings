@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"auto-save",
+		"Babel",
+		"Boxy Theme",
+		"Color Highlighter",
+		"EJS 2",
+		"Elm Language Support",
+		"Emmet",
+		"ESLint",
+		"Ethereum",
+		"Material Theme",
+		"More Layouts",
+		"Package Control",
+		"Predawn Twilight Theme",
+		"Pug",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"Swift for F*ing Sublime",
+		"TerminalView",
+		"TypeScript"
+	]
+}
