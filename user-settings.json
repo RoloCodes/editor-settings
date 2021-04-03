@@ -1,34 +1,144 @@
-{   
-    "editor.tabSize": 2,
-    "files.autoSave": "afterDelay",
-    "git.ignoreLimitWarning": true,
-    "vim.insertModeKeyBindings": [
-        {
-            "before": ["j", "k"],
-            "after": ["<Esc>"]
-        },
-        {
-            "before": ["k", "j"],
-            "after": ["<Esc>"]
-        }
-    ],
-    "vim.useCtrlKeys": false,
-    "editor.fontFamily": "Monaco, 'Courier New', monospace",
-    "editor.fontSize": 14,
-    // "editor.lineHeight": 16,
-    "window.zoomLevel": 0,
-    "workbench.colorTheme": "Twilight",
-    "workbench.iconTheme": "vscode-icons",
-    // ubuntu colors
-    /*
-    "workbench.colorCustomizations": {
-        "editor.background": "#1a1a1a",
-        "editorGutter.background": "#161616"
+{
+  "editor.tabSize": 2,
+  "files.autoSave": "afterDelay",
+  "vim.startInInsertMode": true,
+  "vim.insertModeKeyBindings": [
+    {
+      "before": ["j", "k"],
+      "after": ["<Esc>"]
+    },
+    {
+      "before": ["k", "j"],
+      "after": ["<Esc>"]
     }
-    */
-    // mac colors
-    /*
-        "editor.background": "#282828",
-        "editorGutter.background": "#202020"
-    */
+  ],
+  "vim.useCtrlKeys": false,
+  "editor.fontFamily": "Monaco, 'Courier New', monospace",
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.fontSize": 14,
+  "terminal.integrated.fontSize": 14,
+  "explorer.confirmDragAndDrop": false,
+  "editor.formatOnSave": true,
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "vue-html": "html",
+    "mdx": "javascriptreact"
+  },
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 180,
+  "python.pythonPath": "/usr/local/bin/python3",
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.activityBar.visible": true,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.renderControlCharacters": false,
+  "javascript.preferences.importModuleSpecifier": "non-relative",
+  "workbench.sideBar.location": "left",
+  "prettier.arrowParens": "always",
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.tabWidth": 2,
+  "prettier.useTabs": false,
+  "prettier.printWidth": 80,
+  "javascript.suggest.autoImports": true,
+  "typescript.suggest.autoImports": true,
+  "auto-close-tag.activationOnLanguage": [
+    "xml",
+    "php",
+    "blade",
+    "ejs",
+    "jinja",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "plaintext",
+    "markdown",
+    "vue",
+    "liquid",
+    "erb",
+    "lang-cfml",
+    "cfml",
+    "HTML (Eex)",
+    "md",
+    "mdx"
+  ],
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[elm]": {
+    "editor.defaultFormatter": "sbrink.elm"
+  },
+  "terminal.integrated.shell.osx": "/bin/bash",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.startupEditor": "welcomePage",
+  "workbench.colorTheme": "Palenight Italic",
+  "html.format.endWithNewline": true,
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "cSpell.enabledLanguageIds": [
+    "asciidoc",
+    "c",
+    "cpp",
+    "csharp",
+    "css",
+    "git-commit",
+    "go",
+    "handlebars",
+    "haskell",
+    "html",
+    "jade",
+    "java",
+    "javascript",
+    "javascriptreact",
+    "json",
+    "jsonc",
+    "latex",
+    "less",
+    "markdown",
+    "php",
+    "plaintext",
+    "python",
+    "pug",
+    "restructuredtext",
+    "rust",
+    "scala",
+    "scss",
+    "text",
+    "typescript",
+    "typescriptreact",
+    "yaml",
+    "yml",
+    "mdx"
+  ],
+  "breadcrumbs.enabled": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "workbench.editorAssociations": [
+    {
+      "viewType": "jupyter.notebook.ipynb",
+      "filenamePattern": "*.ipynb"
+    }
+  ],
+  "jupyter.alwaysTrustNotebooks": true,
+  "jupyter.askForKernelRestart": false,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
