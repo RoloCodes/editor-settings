@@ -1,24 +1,37 @@
-Auto Close Tag
-Auto Rename Tag
-Bracket Pair Colorizer
-C/C++
-C#
-Color Highlight
-Debugger for Chrome
-Debugger for Unity
-Docker 
-ESLint
-Live Server
-IntelliSense for CSS class names
-Path IntelliSense
-PHP IntelliSense
-Project Manager
-Python
-Sass
-SCSS IntelliSense
-TSLint
-Twilight Theme
-Unity Code Snippets
-Unity Tools
-Vim
-vscode-icons
+bierner.emojisense
+christian-kohler.path-intellisense
+dbaeumer.vscode-eslint
+dsznajder.es7-react-js-snippets
+ducfilan.pug-formatter
+elmTooling.elm-ls-vscode
+esbenp.prettier-vscode
+ghmcadams.lintlens
+GraphQL.vscode-graphql
+jock.svg
+jpoissonnier.vscode-styled-components
+Kasik96.swift
+kisstkondoros.vscode-gutter-preview
+mechatroner.rainbow-csv
+michead.vscode-mesh-viewer
+mikestead.dotenv
+ms-azuretools.vscode-docker
+ms-dotnettools.csharp
+ms-python.python
+ms-toolsai.jupyter
+ms-vscode-remote.remote-containers
+ms-vscode.cpptools
+ms-vscode.Theme-TomorrowKit
+msjsdiag.debugger-for-chrome
+naumovs.color-highlight
+NikosKornarakis.predawn-twilight
+Prisma.prisma
+ritwickdey.LiveServer
+silvenon.mdx
+streetsidesoftware.code-spell-checker
+techer.open-in-browser
+trongthanh.theme-boxythemekit
+vincaslt.highlight-matching-tag
+vknabel.vscode-swiftformat
+vscode-icons-team.vscode-icons
+vscodevim.vim
+whizkydee.material-palenight-theme
